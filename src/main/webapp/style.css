@@ -1,0 +1,31 @@
+body{
+    /*background-image: url("background.jpg");*/
+    background-color: aqua;
+}
+th[class="header"]{
+    color: black;
+    font-size: 24px;
+    font-family: "Comic Sans MS";
+}
+td > img{
+    margin: 20px;
+    border-style: dashed;
+    border-color: orange;
+}
+table[class="XButtons"]{
+    margin-left: auto;
+    border-style: dashed;
+    border-color: orange;
+    margin-right: -15px;
+}
+td > button{
+    background-color: white;
+}
+/*table[class="RButtons"]{*/
+/*    text-align: left;*/
+/*    border-style: dashed;*/
+/*    border-color: orange;*/
+/*}*/
+#tabl{
+    margin: 10px;
+}
